@@ -1,4 +1,7 @@
 # Errox
+[![docs](https://docs.rs/errox/badge.svg)](https://docs.rs/rusterm)
+[![dependency status](https://deps.rs/crate/errox/0.1.0/status.svg)](https://deps.rs/crate/errox/0.1.0)
+[![build status](https://github.com/tduck973564/errox/workflows/Rust/badge.svg)](https://github.com/tduck973564/rusterm/actions)
 ## A simple and minimal error logging library.
 Errox is a minimal error logging library to log Err return types and print them to stderr, with an optional timestamp.
 ## Examples
