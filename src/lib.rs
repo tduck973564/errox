@@ -2,7 +2,7 @@
  * Copyright (c) 2021-2021 Thomas Duckworth <tduck973564@gmail.com>.
  * This file is under the `errox` project, which is licenced under the GNU GPL v3.0 which you can read here: https://www.gnu.org/licenses/gpl-3.0.en.html.
  */
-#![deny(missing_docs)]
+#![warn(missing_docs)]
 use doc_comment::doc_comment;
 doc_comment!(include_str!("../README.md"));
 
