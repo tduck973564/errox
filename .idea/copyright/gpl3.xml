@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="Copyright (c) &amp;#36;originalComment.match(&quot;Copyright \(c\) (\d+)&quot;, 1, &quot;-&quot;)&amp;#36;today.year Thomas Duckworth &lt;tduck973564@gmail.com&gt;. &#10;This file is under the `&amp;#36;project.name` project, which is licenced under the GNU GPL v3.0 which you can read here: https://www.gnu.org/licenses/gpl-3.0.en.html." />
+    <option name="myName" value="gpl3" />
+  </copyright>
+</component>
